@@ -17,6 +17,7 @@ Este proyecto implementa un **Sistema de Riego IoT** utilizando **Node-RED, MQTT
 - **TCP/IP**: Comunicación entre dispositivos.
 - **FPDF**: Generación de reportes en formato PDF.
 - **Arduino Mega**: Microcontrolador principal del sistema.
+- **Ethernet Shield W5100**: Shield usado para comunicacion entre arduino y el router.
 - **Electroválvulas**: Control del flujo de agua.
 - **Relés**: Activación y desactivación de las electroválvulas.
 - **Router**: Comunicación y acceso a la red.
