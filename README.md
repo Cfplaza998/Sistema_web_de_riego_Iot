@@ -47,7 +47,7 @@ Este proyecto implementa un **Sistema de Riego IoT** utilizando **Node-RED, MQTT
    ```
 2. Configurar la base de datos en MySQL:
    - Crear una base de datos llamada `sistema_riego`.
-   - Importar el archivo `database.sql` incluido en el repositorio.
+   - Importar el archivo `bd_smart_irrig.sql` incluido en el repositorio.
 3. Configurar el servidor web:
    - Copiar los archivos del proyecto en la carpeta `htdocs` de XAMPP.
    - Modificar los archivos de conexión a la base de datos en `config.php`.
